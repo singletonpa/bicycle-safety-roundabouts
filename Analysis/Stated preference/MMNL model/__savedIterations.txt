@@ -1,0 +1,16 @@
+BFacility_Ramps = 0.13833820393699053
+BFacility_Seperated = 2.6314626554125486
+BFacility_Shared = 1.624756565680736
+BIsland_small = 0.3965603909020751
+BLane_1 = 1.2486222287728577
+BSpeed_35 = -0.5280209425217273
+BVolume_High = -1.7590802715644909
+BVolume_Medium = -0.5898409482588188
+sigma_facility_ramps = 3.1555892197825544
+sigma_facility_seperated = 3.3735032041580184
+sigma_facility_shared = 0.8974075098403488
+sigma_island_small = 0.05262705120406208
+sigma_lane_1 = 1.6215045761288045
+sigma_speed_35 = 0.8669189963141175
+sigma_volume_high = -0.30321907347200355
+sigma_volume_medium = -0.20907545715649087

@@ -1,0 +1,1 @@
+Initial loglikelihood of MNL model is indeed a Null-Likelihood
