@@ -8,6 +8,8 @@ This repository contains data and scripts associated with the ["Investigating bi
     * Survey data collection, using an online questionnaire about bicyclists' personal characteristics, user behaviors, perceptions of comfort, and preferences for various design and operational elements of roundabouts.
     * Statistical modeling of associations between safety perceptions and user characteristics, roundabout designs, and other factors. 
 
+[![DOI](https://zenodo.org/badge/385982421.svg)](https://zenodo.org/badge/latestdoi/385982421)
+
 ### Publications
 * Lists of publications will go here. 
 
