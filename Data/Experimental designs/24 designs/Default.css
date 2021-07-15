@@ -1,0 +1,123 @@
+h4 
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12;
+	font-weight: bold;
+	color: #171E15;
+}
+
+body 
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12;
+	background-color: EEF1ED;
+}
+td 
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12;
+}
+
+th 
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12;
+	font-weight: bold;
+
+}
+
+
+
+em 
+{
+	font-size: 12;
+	color: #FF0000;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+table
+{
+	border-style:solid;
+	border-color:black;
+	border-width:1px;
+	border-spacing:0px;
+}
+
+
+
+.heading1 
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12;
+	font-weight: bold;
+	width: "150px";
+	text-align: "center";
+	background-color: CED7CC;
+}
+
+.heading2 
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12;
+	font-weight: bold;
+	width: "150px";
+	text-align: "center";
+	background-color: CED7CC;
+}
+
+.heading3 
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12;
+	font-weight: bold;
+	width: "150px";
+	text-align: "center";
+	background-color: CED7CC;
+}
+
+.heading4
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12;
+	font-weight: bold;
+	width: "150px";
+	text-align: "center";
+	background-color: CED7CC;
+}
+
+.heading5 
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12;
+	font-weight: bold;
+	width: "150px";
+	text-align: "center";
+	background-color: CED7CC;
+}
+
+.headingattribute 
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12;
+	font-weight: bold;
+	width: "250px";
+	text-align: "left";
+	background-color: CED7CC;
+}
+
+.default
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12;
+	font-weight: bold;
+	width: "250px";
+	text-align: "left";
+	background-color: CED7CC;
+}
+
+
+
+
+

@@ -1,0 +1,13 @@
+? Generating the sequential orthogonal design
+? Sequential initial alternative is sequential and the next is chosen randomly from same 
+? Number of rows is one we provide which might be changed if more rows are required
+
+Design
+;alts = alt1, alt2
+;rows = 9
+;orth = seq
+;block = 3
+;model:
+U(alt1) = b0 + b1* Speed[20,30] + b2* Volume[0,1,2] + b3 * Lane[0,1] + b4 * Island[0,1] + b5 * Facility[0,1,2,3] /
+U(alt2) =      b1* Speed        + b2* Volume        + b3 * Lane      + b4 * Island      + b5 * Facility 
+$

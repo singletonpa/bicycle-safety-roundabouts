@@ -1,0 +1,8 @@
+Here is the general description of the files (please see the file extensions).
+* 24 designs: Individual html files for 24 designs
+* Blocked seq designs.ngd: Ngene output file
+* Blocked seq.ngs: Syntax for running sequential orthogonal design in Ngene
+* Blocked sequential orthogonal design.txt: Syntax used to generate the design in Ngene
+* Design matrix.xlsx: Matrix form of the 24 orthogonal designs
+* Design selected by PAS.xlsx: Summary and selection of scenarios to remove
+* Full syntax with categorical coding.txt : Ngene syntax but with additional html code to create the 24 html outputs additional to the actual syntax.
