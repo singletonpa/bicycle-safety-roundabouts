@@ -11,7 +11,8 @@ This repository contains data and scripts associated with the ["Investigating bi
 [![DOI](https://zenodo.org/badge/385982421.svg)](https://zenodo.org/badge/latestdoi/385982421)
 
 ### Publications
-* Lists of publications will go here. 
+* Poudel, N., & Singleton P. A. (2021). Bicycle safety at roundabouts: A systematic literature review. *Transport Reviews, 1877207*. https://doi.org/10.1080/01441647.2021.1877207
+* Poudel, N., & Singleton, P. A. (2022). Preferences for roundabout attributes among US bicyclists: A discrete choice experiment. *Transportation Research Part A: Policy and Practice, 155*, 316-329. https://doi.org/10.1016/j.tra.2021.11.023
 
 ## Description of files and folders
 * Many of these scripts were written in R. To use, [download R](https://cloud.r-project.org/) and then [download RStudio](https://www.rstudio.com/products/rstudio/download/#download). 
@@ -33,3 +34,6 @@ These folders contain processed data, scripts, and outputs associated with analy
     * **Heterogeneity model**: Files associated with the panel mixed multinomial logit models, including systematic preference heterogeneity. 
     * **MMNL model**: Files associated with the panel mixed multinomial logit models. 
     * **MNL model**: Files associated with the multinomial logit models. 
+* **Comfort analysis**: Files associated with the analysis of perceived comfort data. 
+   * **Data cleaning**: Files associated with the preparation of survey data for the analysis. 
+   * **Comfort analysis**: Files associated with the multivariate ordered probit models of comfort. 
